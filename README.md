@@ -7,9 +7,6 @@
 <p align="left"> <a href="https://twitter.com/__inderjot" target="blank"><img src="https://img.shields.io/twitter/follow/__inderjot?logo=twitter&style=for-the-badge" alt="__inderjot" /></a> </p>
 
 - 👨‍💻 More About  [Me](https://inderjot.tech)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@inderjotsingh141)
-
 - 📫 How to reach me **inderjotsingh141@gmail.com**
 - I love playing chess ♔
 
