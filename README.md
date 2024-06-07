@@ -1,15 +1,30 @@
 <h1 align="center">Hi 👋, I'm Inderjot</h1>
-<h3 align="center">NEXT JS Developer </h3>
+<h3 align="center">NEXT JS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inderjotx&label=Profile%20views&color=0e75b6&style=flat" alt="inderjotx" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=inderjotx&label=Profile%20views&color=0e75b6&style=flat" alt="inderjotx" />
+</p>
 
+<p align="left">
+  <a href="https://twitter.com/__inderjot" target="blank">
+    <img src="https://img.shields.io/twitter/follow/__inderjot?logo=twitter&style=for-the-badge" alt="__inderjot" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/__inderjot" target="blank"><img src="https://img.shields.io/twitter/follow/__inderjot?logo=twitter&style=for-the-badge" alt="__inderjot" /></a> </p>
-
-- 👨‍💻 More About  [Me](https://inderjot.tech)
+- Personal Website [Link](https://inderjot.tech)
+- 👨‍💻 More About [Me](https://inderjot.tech/about)
 - 📫 How to reach me **inderjotsingh141@gmail.com**
-- I love playing chess ♔
+- I love playing `CHESS`
 
+```py
+# My Life in Short
+while (I_am_alive) {
+  code()
+  gym()
+  play_chess()
+}
+
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__inderjot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__inderjot" height="30" width="40" /></a>
