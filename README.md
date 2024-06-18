@@ -11,8 +11,8 @@
   </a>
 </p>
 
-- Personal Website [Link](https://inderjot.tech)
-- 👨‍💻 More About [Me](https://inderjot.tech/about)
+- Personal Website [Link](https://inderjot.me)
+- 👨‍💻 More About [Me](https://inderjot.me/about)
 - 📫 How to reach me **inderjotsingh141@gmail.com**
 - I love playing `CHESS`
 
