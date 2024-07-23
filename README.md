@@ -18,7 +18,7 @@
 
 ```py
 # My Life in Short
-while (I_am_alive) {
+while (!dead) {
   code()
   gym()
   play_chess()
