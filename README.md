@@ -20,8 +20,9 @@
 # My Life in Short
 while (!dead) {
   code()
+  chess()
+  anime() 
   gym()
-  play_chess()
 }
 
 > python life.py
