@@ -12,8 +12,7 @@
 </p>
 
 - Personal Website [Link](https://inderjot.tech)
-- 👨‍💻 More About [Me](https://inderjot.tech/about)
-- 📫 How to reach me **inderjotsingh141@gmail.com**
+- 📫  You can reach me at **inderjotsingh141@gmail.com**
 - I love playing `CHESS`
 
 ```py
