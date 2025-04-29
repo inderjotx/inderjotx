@@ -11,12 +11,11 @@
   </a>
 </p>
 
-- Personal Website [Link](https://inderjot.tech)
+- Personal Website [Link](https://inderjot.xyz)
 - 📫  You can reach me at **inderjotsingh141@gmail.com**
 - I love playing `CHESS`
 
 ```py
-# My Life in Short
 while (!dead) {
   code()
   chess()
